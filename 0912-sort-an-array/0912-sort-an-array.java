@@ -25,7 +25,7 @@ class Solution {
         }
         int m=0;
         for(int i=low;i<=high;i++){
-            nums[i]=a[m++];
+            nums[i]=a[i-low];
         }
 
     }

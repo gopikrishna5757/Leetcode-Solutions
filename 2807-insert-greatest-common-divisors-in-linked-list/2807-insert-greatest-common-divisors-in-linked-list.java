@@ -19,17 +19,18 @@ class Solution {
 
     }
     public ListNode insertGreatestCommonDivisors(ListNode head) {
-        if(head==null) return head;
-        ListNode p1=head;
-        ListNode p2=head.next;
-        while(p2!=null){
-            System.out.println(p1.val);
-            p1.next=(new ListNode(gcd(Math.max(p1.val,p2.val),Math.min(p1.val,p2.val))));
-            p1.next.next=p2;
-            p1=p1.next.next;
-            p2=p2.next;
+        if(head==null||head.next==null) return head;
+        ListNode ans = head;
+        
+        
+        while(head.next!=null){
+            //System.out.println(p1.val);
+            ListNode cur=new ListNode(gcd(head.val,head.next.val));
+            cur.next=head.next;
+            head.next=cur;
+            head=head.next.next;
         }
 
         
-   return head; }
+   return ans; }
 }

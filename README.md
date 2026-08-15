@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
 |  |
 | ------- |
@@ -71,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 <!---LeetCode Topics End-->

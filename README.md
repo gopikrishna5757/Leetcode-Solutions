@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Linked List
 |  |
@@ -76,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Two Pointers
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->

@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0018-4sum) |
+| [0198-house-robber](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0561-array-partition](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0912-sort-an-array) |
@@ -117,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0200-number-of-islands) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0198-house-robber) |
 <!---LeetCode Topics End-->

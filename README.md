@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0561-array-partition](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0561-array-partition](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0345-reverse-vowels-of-a-string](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |

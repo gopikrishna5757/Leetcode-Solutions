@@ -13,11 +13,7 @@ class Solution {
               minpos=i;
             }
         }
-        System.out.println(n);
-        System.out.println(maxpos);
-        System.out.println(max);
-        System.out.println(minpos);
-        System.out.println(min);
+       
         int diff=0;
         if(minpos<=maxpos){
            diff= minpos+1+n-maxpos;

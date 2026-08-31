@@ -36,9 +36,7 @@ class Solution {
             temp = temp.next;
             head = head.next;
         }
-        System.out.println(count1);
-        System.out.println(count2);
-        System.out.println(count3);
+       
 
         if (count2 == -1 || count1 == -1)
             return new int[] { -1, -1 };

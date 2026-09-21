@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+| [0836-rectangle-overlap](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -180,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0075-sort-colors) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->

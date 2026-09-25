@@ -2,8 +2,9 @@ class Solution {
     public String reverseWords(String s) {
         int n = s.length(),i=0;
         List<String> a= new ArrayList<>();
+        StringBuilder sb= new StringBuilder();
         while(i<n){
-            StringBuilder sb= new StringBuilder();
+           
            while(i<n&&s.charAt(i)==' '){
             i++;
            }
@@ -11,11 +12,13 @@ class Solution {
             sb.append(s.charAt(i++));
            }
            if(sb.length()!=0) a.add(sb.toString());
+           sb.setLength(0);
 
            
 
 
         }
+        sb.setLength(0);
         int left=0,right=a.size()-1;
         while(left<right){
             String temp=a.get(left);
@@ -24,7 +27,7 @@ class Solution {
             left++;
             right--;
         }
-        StringBuilder sb=new StringBuilder();
+        
         for(String res:a){
              sb.append(res);
              sb.append(" ");

@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0189-rotate-array](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |

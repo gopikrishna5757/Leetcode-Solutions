@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0443-string-compression) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0443-string-compression) |
 | [0977-squares-of-a-sorted-array](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |

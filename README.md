@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
+| [0146-lru-cache](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0146-lru-cache](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/2181-merge-nodes-in-between-zeros) |
@@ -239,4 +241,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->

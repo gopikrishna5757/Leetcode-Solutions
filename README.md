@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Linked List
 |  |
 | ------- |

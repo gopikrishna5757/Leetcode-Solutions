@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -175,19 +176,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0200-number-of-islands) |
+| [1254-number-of-closed-islands](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0200-number-of-islands) |
+| [1254-number-of-closed-islands](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 ## Dynamic Programming
 |  |
 | ------- |

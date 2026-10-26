@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -177,22 +178,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Dynamic Programming
 |  |
 | ------- |

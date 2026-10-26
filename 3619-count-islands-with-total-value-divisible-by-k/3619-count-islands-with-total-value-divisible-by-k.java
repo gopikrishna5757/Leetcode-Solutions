@@ -11,10 +11,10 @@ class Solution {
         int m = grid[0].length,c=0;
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
-                if(grid[i][j]!=0){
+                if(grid[i][j]>0){
                     
                     long sum=dfs(grid,i,j,n,m);
-                    System.out.println(sum);
+                    //System.out.println(sum);
                     if(sum%k==0){
                         c++;
                     }

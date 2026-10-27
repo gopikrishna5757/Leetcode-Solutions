@@ -1,21 +1,22 @@
 class Solution {
     public String[] createGrid(int m, int n) {
-        String[] a= new String[m];
-        int c=0;
-        StringBuilder sb= new StringBuilder(".");
-        sb.append("#".repeat(n-1));
-        String s=sb.toString();
-        while(m-->1){
-            
-          
-            
-            
-            a[c++]=s;
-           
-           
+        String[] a = new String[m];
+        int c = 0,k=n;
+        String s = ".";
+        for (int i = 1; i < n; i++) {
+            s += "#";
         }
-        sb.setLength(0);
-        sb.append(".".repeat(n));
-        a[c]=sb.toString();
-    return a;}
+        while (m-- > 1) {
+
+            a[c++] = s;
+
+        }
+        String ss = ".";
+        for (int i = 1; i < k; i++) {
+            ss +=".";
+        }
+        a[c] = ss;
+
+        return a;
+    }
 }

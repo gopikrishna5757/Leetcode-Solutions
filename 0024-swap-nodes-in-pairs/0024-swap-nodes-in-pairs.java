@@ -16,11 +16,11 @@ class Solution {
         if(head.next==null){
             return head;
         }
-        ListNode t=head.next.next;
-        ListNode h=head.next;
-        h.next=head;
-        head.next=swapPairs(t);
-        return h;
+        ListNode t=head.next;
+        head.next=swapPairs(t.next);
+        t.next=head;
+        return t;
+        
 
 
 

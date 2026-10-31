@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/3665-twisted-mirror-path-count) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0198-house-robber](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+| [3665-twisted-mirror-path-count](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/3665-twisted-mirror-path-count) |
 ## Prefix Sum
 |  |
 | ------- |

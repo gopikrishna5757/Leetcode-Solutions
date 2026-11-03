@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1603-design-parking-system](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/1603-design-parking-system) |
 ## Math
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1603-design-parking-system](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/1603-design-parking-system) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0146-lru-cache) |
+| [1603-design-parking-system](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/1603-design-parking-system) |
 ## Doubly-Linked List
 |  |
 | ------- |

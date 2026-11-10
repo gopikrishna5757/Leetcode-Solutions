@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-design-parking-system](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/1603-design-parking-system) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## String
 |  |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0231-power-of-two) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Two Pointers
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Memoization
 |  |
 | ------- |

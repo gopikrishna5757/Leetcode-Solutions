@@ -6,20 +6,20 @@ class Solution {
     }
     public static char find(int k,String ch,int temp){
         if(k==1||ch.length()>=temp) return ch.charAt(temp-1);
-        StringBuilder sb= new StringBuilder();
         
+        String s="";
         for(int i=0;i<ch.length();i++){
             char c=ch.charAt(i);
             if(c=='z'){
-                sb.append("a");
+              s=s+"a";  
             }
             else{
-                sb.append((char)(c+1));
+                s=s+(char)(c+1);
             }
             
             
         }
-        ch=ch+sb.toString();
+        ch=ch+s;
         return find(k-1,ch,temp);
         
     }

@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0200-number-of-islands) |
+| [0993-cousins-in-binary-tree](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0872-leaf-similar-trees](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0872-leaf-similar-trees) |
+| [0993-cousins-in-binary-tree](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0993-cousins-in-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -339,12 +341,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0872-leaf-similar-trees](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0872-leaf-similar-trees) |
+| [0993-cousins-in-binary-tree](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0993-cousins-in-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0872-leaf-similar-trees](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0872-leaf-similar-trees) |
+| [0993-cousins-in-binary-tree](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0993-cousins-in-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Tournament Sort
 |  |

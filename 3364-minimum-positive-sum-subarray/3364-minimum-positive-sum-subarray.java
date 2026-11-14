@@ -11,7 +11,7 @@ class Solution {
 
                 ans = sum;
             }
-            System.out.println(ans);
+            
             for (int j = 0; j < n - i; j++) {
                 sum -= nums.get(j);
                 sum += nums.get(j + i);

@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0100-same-tree) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0200-number-of-islands](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0872-leaf-similar-trees](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0872-leaf-similar-trees) |
 | [0993-cousins-in-binary-tree](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0993-cousins-in-binary-tree) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0872-leaf-similar-trees](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0872-leaf-similar-trees) |
 | [0993-cousins-in-binary-tree](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0993-cousins-in-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0872-leaf-similar-trees](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0872-leaf-similar-trees) |
 | [0993-cousins-in-binary-tree](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0993-cousins-in-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |

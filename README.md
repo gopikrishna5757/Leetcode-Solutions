@@ -356,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0872-leaf-similar-trees) |
 | [0993-cousins-in-binary-tree](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0993-cousins-in-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0872-leaf-similar-trees) |
 | [0993-cousins-in-binary-tree](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0993-cousins-in-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -377,4 +379,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/1472-design-browser-history) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->

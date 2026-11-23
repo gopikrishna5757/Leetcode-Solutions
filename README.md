@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
+| [1352-product-of-the-last-k-numbers](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1472-design-browser-history](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/1472-design-browser-history) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
+| [1352-product-of-the-last-k-numbers](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [1352-product-of-the-last-k-numbers](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3364-minimum-positive-sum-subarray](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
@@ -338,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0146-lru-cache) |
+| [1352-product-of-the-last-k-numbers](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1472-design-browser-history](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/1472-design-browser-history) |
 | [1603-design-parking-system](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/1603-design-parking-system) |
 ## Doubly-Linked List
@@ -390,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1472-design-browser-history](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/1472-design-browser-history) |
 ## Binary Search Tree
 |  |

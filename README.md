@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3360-stone-removal-game](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-calculate-digit-sum-of-a-string](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3360-stone-removal-game](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## String
 |  |

@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-product-of-the-last-k-numbers](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1472-design-browser-history](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/1472-design-browser-history) |
+| [1476-subrectangle-queries](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/1476-subrectangle-queries) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
+| [1476-subrectangle-queries](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/1476-subrectangle-queries) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/3665-twisted-mirror-path-count) |
 ## Depth-First Search
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [1352-product-of-the-last-k-numbers](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1472-design-browser-history](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/1472-design-browser-history) |
+| [1476-subrectangle-queries](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/1476-subrectangle-queries) |
 | [1603-design-parking-system](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/1603-design-parking-system) |
 ## Doubly-Linked List
 |  |

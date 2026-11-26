@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0347-top-k-frequent-elements](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0561-array-partition](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0912-sort-an-array) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0146-lru-cache](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0146-lru-cache) |
+| [0347-top-k-frequent-elements](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0561-array-partition](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0912-sort-an-array) |
@@ -96,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [1882-process-tasks-using-servers](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/1882-process-tasks-using-servers) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -107,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
@@ -115,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [1267-count-servers-that-communicate](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
@@ -320,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/gopikrishna5757/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Binary Search
 |  |
 | ------- |
